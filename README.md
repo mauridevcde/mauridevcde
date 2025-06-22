@@ -7,4 +7,4 @@ Soy Ingeniero de Software en [Ciudad del Este, Paraguay] 🇵🇾
 
 Techstack: '.js', '.ts', '.jsx', '.tsx', '.css', '.html'
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauridevcde&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauridevcde&layout=donut-vertical)](https://github.com/mauridevcde/github-readme-stats)
