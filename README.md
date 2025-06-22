@@ -7,4 +7,4 @@ Soy Ingeniero de Software en [Ciudad del Este, Paraguay] 🇵🇾
 
 Techstack: '.js', '.ts', '.jsx', '.tsx', '.css', '.html'
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mauridevcde)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauridevcde)](https://github.com/mauridevcde/github-readme-stats)
